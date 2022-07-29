@@ -1,0 +1,5 @@
+La aplicacion se esta desarollando, bajo el marco de .NetCore(Multiplataforma).
+Arquitectura MVVM
+M (Objeto) modelo
+VM (Servicio de logica)
+V (La Interfaz Grafica) 
